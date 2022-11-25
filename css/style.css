@@ -15,7 +15,7 @@
 body {
   font-family: "Montserrat", sans-serif;
   padding: 20px;
-  font-size: 17px;
+  font-size: 20px;
  
 }
 
@@ -62,6 +62,7 @@ button {
   font-weight: 600;
   color: black;
   flex-wrap: wrap;
+  padding: 5px;
 }
 
 .content h1 span,
@@ -130,7 +131,7 @@ button {
 }
 
 .section {
-  width: 70%;
+  width: 75%;
 }
 
 .section .card {
